@@ -1,7 +1,11 @@
 title: My Portfolio
 remote_theme: mmistakes/minimal-mistakes
+paginate: 5
+paginate_path: "/page:num/"
 plugins:
-  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
+ - jekyll-include-cache
 navigation:
   - title: About
     url: /about/
