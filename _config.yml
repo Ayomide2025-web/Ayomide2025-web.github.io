@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Ayomide Olagunju"
+title_separator          : "|"
+subtitle                 : "Health data Analyst | Bioinformatics | Machine learning Expert | Graphic Designer"
+name                     : "Ayomide Olagunju"
+description              : "I'm a Health Data Analyst and Bioinformatics trainee with a creative eye for design. I combine analytical thinking with visual storytelling to create data-driven solutions and beautiful user experiences."
+url                      : "https://Ayomide2025-web.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Ayomide2025-web/Ayomide2025-web.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Ayomide Olagunju"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
