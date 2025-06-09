@@ -1,10 +1,9 @@
 ---
 layout: home
-permalink: /
 author_profile: true
+permalink: /
+title: "Welcome"
 ---
-
-# Welcome!
 
 Hi, I'm **Ayomide Olagunju** — a first-class graduate of Physiology and a skilled Health Data Analyst with expertise in interpreting complex health  
 datasets and building predictive models to support healthcare decisions.
