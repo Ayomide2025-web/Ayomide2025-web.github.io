@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Ayomide Olagunju"
-  avatar           : "/assets/images/ayomide.jpg" # We'll upload# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/ayomide.jpeg" # We'll upload# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Health Data Analyst | Bioinformatics | Machine Learning | Graphic Designer"
   location         : "Lagos, Nigeria"
   email            : "olagunjuayomide02@gmail.com"
