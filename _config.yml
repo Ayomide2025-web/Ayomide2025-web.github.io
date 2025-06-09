@@ -113,30 +113,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayomide Olagunju"
-  avatar           : "/assets/images/ayomide.jpeg" # We'll upload# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Health Data Analyst | Bioinformatics | Machine Learning | Graphic Designer"
-  location         : "Lagos, Nigeria"
-  email            : "olagunjuayomide02@gmail.com"
+  name      : "Ayomide Olagunju"
+  avatar    : "/assets/images/ayomide.jpeg"
+  bio       : "Health Data Analyst | Bioinformatics | Machine Learning | Graphic Designer"
+  location  : "Lagos, Nigeria"
+  email     : "olagunjuayomide02@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      "mailto: olagunjuayomide02@gmail.com"
+      url: "mailto:olagunjuayomide02@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://ayomide2025-web.github.io/Ayomide2025-web.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      "https://github.com/Ayomide2025-web/Ayomide2025-web.github.io/
-    - label: "linkedIn"
-      icon: "fab fa-fw fa-linkedIn"
-      "https://linkedIn.com/in/olagunju-ayomide-636843298/
+      url: "https://github.com/Ayomide2025-web"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/olagunju-ayomide-636843298/"
+
 
 # Site Footer
 footer:
