@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-permalink: /contact/
+permalink: /_pages/contact/
 ---
 
 You can reach me at:
