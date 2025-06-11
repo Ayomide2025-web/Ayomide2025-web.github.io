@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name      : "Ayomide Olagunju"
+  name      : 
   avatar    : "/assets/images/ayomide.jpeg"
-  bio       : "Health Data Analyst | Bioinformatics | Machine Learning | Graphic Designer"
+  bio       : 
   location  : "Lagos, Nigeria"
   email     : "olagunjuayomide02@gmail.com"
   links:
