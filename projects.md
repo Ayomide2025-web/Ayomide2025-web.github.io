@@ -4,8 +4,6 @@ title: "Projects"
 permalink: /projects/
 ---
 
-# 💼 Projects
-
 A few selected projects that showcase my skills in health data analysis, machine learning, and dashboard development:
 
 ---
