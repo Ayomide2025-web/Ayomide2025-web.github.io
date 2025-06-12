@@ -5,14 +5,11 @@ permalink: /
 title: "Welcome"
 ---
 
-Hi, I'm **Ayomide Olagunju** — a first-class graduate of Physiology and a skilled Health Data Analyst with expertise in interpreting complex health  
-datasets and building predictive models to support healthcare decisions.
+Hi, I’m **Ayomide Olagunju** — a first-class graduate of Physiology and a skilled Health Data Analyst with expertise in interpreting complex health datasets and building predictive models to support healthcare decisions.
 
-I combine my solid foundation in physiology with advanced skills in Health Data Analysis, Bioinformatics, Machine Learning, and Graphic Design to  
-deliver clear insights and impactful visuals.
+I combine my solid foundation in physiology with advanced skills in Health Data Analysis, Bioinformatics, Machine Learning, and Graphic Design to deliver meaningful insights and compelling visuals.
 
-With proficiency in Python, R, SQL, Excel, and Power BI, I transform raw health data into meaningful solutions.
-
+With proficiency in **Python**, **R**, **SQL**, **Excel**, and **Power BI**, I transform raw health data into actionable and impactful solutions.
 ---
 
 ### 💡 What I Can Do
