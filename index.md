@@ -3,6 +3,10 @@ layout: home
 author_profile: true
 permalink: /
 title: "Welcome"
+header:
+  overlay_image: /assets/banner.jpeg
+  overlay_filter: 0.3 # adjust darkness
+  caption: "Empowering healthcare with data-driven insights"
 ---
 
 Hi, I’m **Ayomide Olagunju** — a first-class graduate of Physiology and a skilled Health Data Analyst with expertise in interpreting complex health datasets and building predictive models to support healthcare decisions.
