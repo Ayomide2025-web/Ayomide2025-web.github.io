@@ -18,8 +18,8 @@ Developed a Streamlit web application that predicts lung cancer risk using clini
 - SMOTE for balancing the dataset  
 - Interactive UI with probability-based predictions  
 **[View Project on github](https://github.com/Ayomide2025-web/Lung-Cancer-Risk-Prediction/)**
-  
-**[Try the app](lung-cancer-prediction-app-dzqppsagpduascbj8zbdf8.streamlit.app)**
+   
+**[Try the app](https://lung-cancer-prediction-app-dzqppsagpduascbj8zbdf8.streamlit.app/)**
 ---
 
 ## 💉 Diabetes Health Indicator Dashboard
