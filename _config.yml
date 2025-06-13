@@ -112,9 +112,7 @@ analytics:
 
 # Site Author
 author:
-  name      : 
-  avatar    : "/assets/images/ayomide.jpeg"
-  bio       : 
+  avatar    : "/assets/ayomide.jpeg"
   location  : "Lagos, Nigeria"
   email     : "olagunjuayomide02@gmail.com"
   links:
