@@ -17,8 +17,8 @@ Developed a Streamlit web application that predicts lung cancer risk using clini
 - Data preprocessing and outlier handling  
 - SMOTE for balancing the dataset  
 - Interactive UI with probability-based predictions  
-**[View Project on GitHub](#)**
-
+**[View Project on github](https://github.com/Ayomide2025-web/Lung-Cancer-Risk-Prediction/)**
+**[Try the app](#)**
 ---
 
 ## 💉 Diabetes Health Indicator Dashboard
@@ -30,7 +30,7 @@ Built a Power BI dashboard to analyze health indicators that influence diabetes 
 - Interactive visuals showing trends by age, BMI, and activity  
 - Drill-through filters and insights for early intervention  
 - Visual storytelling with custom DAX calculations  
-**[View Dashboard](#)**
+**[View Dashboard](https://github.com/Ayomide2025-web/Diabetes-health-dashboard/)**
 
 ---
 
@@ -43,7 +43,7 @@ Designed an Excel dashboard to monitor patient flow and resource allocation in a
 - Automated insights from raw visit logs  
 - Dynamic charts showing patient categories, visit times, and length of stay  
 - Usable by hospital staff with minimal Excel skills  
-**[View Project](#)**
+**[View Project](https://github.com/Ayomide2025-web/Hospital-Emergency-Room-ER-Analysis/)**
 
 ---
 
