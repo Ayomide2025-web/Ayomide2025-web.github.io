@@ -16,8 +16,8 @@ Below are some of the certifications I’ve earned. Click **View Certificate** t
 
 ---
 
-### 🎓 AI for Medicine Specialization — Coursera (in view)
-[👉 View certificates](/assets/ai4.pdf)
+### 🎓 AI for Medicine Specialization — Coursera
+*In progress — certificate will be added soon.*
 
 ---
 
