@@ -28,7 +28,7 @@ Developed a Streamlit web application that predicts lung cancer risk using clini
 
 ## 💉 Diabetes Health Indicator Dashboard
 
-![Diabetes Dashboard](/assets/diabetes.jpg)
+![Diabetes Dashboard](/assets/patients.jpg)
 
 **Tools:** Power BI · DAX · Excel  
 **Description:**  
