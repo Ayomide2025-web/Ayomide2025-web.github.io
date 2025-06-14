@@ -13,15 +13,13 @@ author_profile: true
 
 ### Power BI Developer – Datalab Analytics  
 *June 2025 – Present*  
-- Currently building and optimizing healthcare dashboards for real-time insights.  
-- Developing interactive reports for health risk prediction (e.g., lung cancer, maternal health).  
+- Currently building and optimizing dashboards for real-time insights.  
 - Streamlining data pipelines and enhancing user experience with visual storytelling.
 
 ### Health Data & Bioinformatics Intern – Datalab Analytics  
-*Feb 2025 – May 2025*  
+*Jan 2025 – April 2025*  
 - Worked on predictive analytics projects using Excel, Python, and machine learning.  
 - Developed and deployed a lung cancer risk prediction model using Streamlit.  
-- Analyzed maternal health datasets and presented findings through visual dashboards.  
 - Collaborated in a cross-functional team to deliver data-driven healthcare insights.
 
 ### STEM Tutor – Private Teaching  
