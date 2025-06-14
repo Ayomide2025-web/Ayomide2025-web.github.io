@@ -10,9 +10,14 @@ A few selected projects that showcase my skills in health data analysis, machine
 
 ## 🫁 Lung Cancer Risk Prediction App
 
-![Lung Cancer Prediction 1](/assets/lung.jpg)
-![Lung Cancer Prediction 2](/assets/lungg.jpg)
-![Lung Cancer Prediction 3](/assets/lunggg.jpg)
+<p align="center">
+  <img src="/assets/lung.jpg" width="600">
+</p>
+
+<p align="center">
+  <img src="/assets/lungg.jpg" width="290">
+  <img src="/assets/lunggg.jpg" width="290">
+</p>
 
 **Tools:** Python · Scikit-learn · Streamlit · Logistic Regression  
 **Description:**  
@@ -28,7 +33,9 @@ Developed a Streamlit web application that predicts lung cancer risk using clini
 
 ## 💉 Diabetes Health Indicator Dashboard
 
-![Diabetes Dashboard](/assets/patients.jpg)
+<p align="center">
+  <img src="/assets/patients.jpg" width="600">
+</p>
 
 **Tools:** Power BI · DAX · Excel  
 **Description:**  
@@ -43,7 +50,9 @@ Built a Power BI dashboard to analyze health indicators that influence diabetes 
 
 ## 🚑 Emergency Room Visit Analysis
 
-![Emergency Room Dashboard](/assets/diabetes.jpg)
+<p align="center">
+  <img src="/assets/diabetes.jpg" width="600">
+</p>
 
 **Tools:** Excel · Power Query · Charts  
 **Description:**  
