@@ -5,11 +5,8 @@ permalink: /resume/
 author_profile: true
 ---
 
----
-layout: single
-title: "Resume"
-permalink: /resume/
-author_profile: true
+[📄 **Download my CV (PDF)**](/assets/Ayomide_Olagunju_CV.pdf)
+
 ---
 
 ## 👩🏽‍💼 Work & Internship Experience
@@ -46,7 +43,13 @@ author_profile: true
 ## 🎓 Education
 
 **BSc. Physiology – First Class**  
-*[Osun state university]*
+*Osun State University*
 
 **Health Data Analysis & Bioinformatics Training**  
-*Datalab
+*Datalab Analytics*
+
+---
+
+## 📥 Download
+
+You can always [📄 **download my CV here (PDF)**](/assets/Ayomide_Olagunju_CV.pdf)
