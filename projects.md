@@ -8,7 +8,7 @@ A few selected projects that showcase my skills in health data analysis, machine
 
 ---
 
-## 🫁 Lung Cancer Risk Prediction App
+## 🫁 Lung Cancer Risk Prediction
 
 <p align="center">
   <img src="/assets/lung.jpg" width="600">
