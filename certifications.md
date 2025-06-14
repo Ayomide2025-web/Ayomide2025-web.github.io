@@ -7,13 +7,33 @@ author_profile: true
 
 ### 📜 Certifications
 
-Below are some of the certifications I’ve obtained so far:
-
-- **AI for Beginners** — Microsoft
-- **Agile Project Management** — FutureLearn
-- **Soft Skills Training** — Jobberman
-- **Health Data Analytics** — Datalab Analytics
+Below are some of the certifications I’ve earned. Click **View Certificate** to download or view each one.
 
 ---
 
-> 🚀 *More certifications coming soon!*
+### 🎓 AI for Beginners — Microsoft  
+[👉 View Certificate](/assets/AI.pdf)
+
+---
+
+### 🎓 AI for Medicine Specialization — Coursera (in view)
+[👉 View certificates](/assets/ai4.pdf)
+
+---
+
+### 🎓 Soft Skills Training — Jobberman  
+[👉 View Certificate](/assets/jobberman.pdf)
+
+---
+
+### 🎓 Graphic Design — HIIT  
+[👉 View Certificate](/assets/graphic.pdf)
+
+---
+
+### 🎓 Health Data Analytics — Datalab Analytics  
+[👉 View Certificate](/assets/health.pdf)
+
+---
+
+> 🚀 *More certifications coming soon!
