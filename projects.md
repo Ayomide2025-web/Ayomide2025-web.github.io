@@ -10,6 +10,10 @@ A few selected projects that showcase my skills in health data analysis, machine
 
 ## 🫁 Lung Cancer Risk Prediction App
 
+![Lung Cancer Prediction 1](/assets/lung.jpg)
+![Lung Cancer Prediction 2](/assets/lungg.jpg)
+![Lung Cancer Prediction 3](/assets/lunggg.jpg)
+
 **Tools:** Python · Scikit-learn · Streamlit · Logistic Regression  
 **Description:**  
 Developed a Streamlit web application that predicts lung cancer risk using clinical and lifestyle factors.  
@@ -17,12 +21,14 @@ Developed a Streamlit web application that predicts lung cancer risk using clini
 - Data preprocessing and outlier handling  
 - SMOTE for balancing the dataset  
 - Interactive UI with probability-based predictions  
-**[View Project on github](https://github.com/Ayomide2025-web/Lung-Cancer-Risk-Prediction/)**
-   
+**[View Project on GitHub](https://github.com/Ayomide2025-web/Lung-Cancer-Risk-Prediction/)**  
 **[Try the app](https://lung-cancer-prediction-app-dzqppsagpduascbj8zbdf8.streamlit.app/)**
+
 ---
 
 ## 💉 Diabetes Health Indicator Dashboard
+
+![Diabetes Dashboard](/assets/diabetes.jpg)
 
 **Tools:** Power BI · DAX · Excel  
 **Description:**  
@@ -36,6 +42,8 @@ Built a Power BI dashboard to analyze health indicators that influence diabetes 
 ---
 
 ## 🚑 Emergency Room Visit Analysis
+
+![Emergency Room Dashboard](/assets/diabetes.jpg)
 
 **Tools:** Excel · Power Query · Charts  
 **Description:**  
