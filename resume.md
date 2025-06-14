@@ -46,7 +46,7 @@ author_profile: true
 ## 🎓 Education
 
 **BSc. Physiology – First Class**  
-*University of [Osun state university]*
+*[Osun state university]*
 
 **Health Data Analysis & Bioinformatics Training**  
 *Datalab
