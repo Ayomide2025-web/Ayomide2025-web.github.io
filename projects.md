@@ -4,20 +4,20 @@ title: "Projects"
 permalink: /projects/
 ---
 
-A few selected projects that showcase my skills in health data analysis, machine learning, and dashboard development:
+A few selected projects that showcase my skills in health data analysis, machine learning, and dashboard development.
 
 ---
 
 ## 🫁 Lung Cancer Risk Prediction
 
-<p align="center">
-  <img src="/assets/lung.jpg" width="600">
-</p>
+<!-- Main large image -->
+<img src="/assets/lung.jpg" alt="Lung Cancer Prediction 1" style="width: 100%; margin-bottom: 10px;">
 
-<p align="center">
-  <img src="/assets/lungg.jpg" width="290">
-  <img src="/assets/lunggg.jpg" width="290">
-</p>
+<!-- Two side-by-side images -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="/assets/lungg.jpg" alt="Lung Cancer Prediction 2" style="width: 49%;">
+  <img src="/assets/lunggg.jpg" alt="Lung Cancer Prediction 3" style="width: 49%;">
+</div>
 
 **Tools:** Python · Scikit-learn · Streamlit · Logistic Regression  
 **Description:**  
@@ -33,9 +33,7 @@ Developed a Streamlit web application that predicts lung cancer risk using clini
 
 ## 💉 Diabetes Health Indicator Dashboard
 
-<p align="center">
-  <img src="/assets/diabetes.jpg" width="600">
-</p>
+<img src="/assets/diabetes.jpg" alt="Diabetes Dashboard" style="width: 100%; margin-bottom: 10px;">
 
 **Tools:** Power BI · DAX · Excel  
 **Description:**  
@@ -50,9 +48,7 @@ Built a Power BI dashboard to analyze health indicators that influence diabetes 
 
 ## 🚑 Emergency Room Visit Analysis
 
-<p align="center">
-  <img src="/assets/patients.jpg" width="600">
-</p>
+<img src="/assets/patients.jpg" alt="Emergency Room Dashboard" style="width: 100%; margin-bottom: 10px;">
 
 **Tools:** Excel · Power Query · Charts  
 **Description:**  
