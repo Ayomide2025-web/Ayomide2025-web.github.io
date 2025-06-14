@@ -9,31 +9,31 @@ header:
   caption: "Empowering healthcare with data-driven insights"
 ---
 
-Hi, I’m **Ayomide Olagunju** — a first-class graduate of Physiology and a skilled Health Data Analyst with expertise in interpreting complex health datasets and building predictive models to support healthcare decisions.
+Hi, I’m **Ayomide Olagunju** — a first-class graduate of Physiology and a dedicated Health Data Analyst passionate about transforming healthcare through data-driven insights and predictive modeling.
 
-I combine my solid foundation in physiology with advanced skills in Health Data Analysis, Bioinformatics, Machine Learning, and Graphic Design to deliver meaningful insights and compelling visuals.
+I combine my strong background in physiology with advanced skills in **Health Data Analysis**, **Bioinformatics**, **Machine Learning**, and **Graphic Design** to uncover meaningful trends and create compelling visuals that drive better decisions.
 
-With proficiency in **Python**, **R**, **SQL**, **Excel**, and **Power BI**, I transform raw health data into actionable and impactful solutions.
+With proficiency in **Python**, **R**, **SQL**, **Excel**, and **Power BI**, I translate raw health data into actionable, impactful solutions.
+
 ---
 
-### 💡 What I Can Do
+### 💡 What I Do Best
 - Health and Clinical Data Analysis  
 - Bioinformatics Research Support  
-- Machine Learning and Predictive Modeling  
-- Dashboards with Power BI and Excel  
-- Clean, Bold Graphic Design for Brands  
+- Machine Learning & Predictive Modeling  
+- Power BI & Excel Dashboards  
+- Clean, Bold Graphic Design  
 
 ---
 
-### 📌 Portfolio Projects
-Coming soon — stay tuned!
+### 📌 Featured Projects
+Check out my [Projects](./projects/) page for live dashboards and apps!
 
 ---
 
-### 📤 Let's Connect!
-Feel free to reach out for collaborations or roles:  
-**[olagunjuayomide02@gmail.com](mailto:olagunjuayomide02@gmail.com)**
+### 📤 Let’s Connect!
+I’m open to collaborations and roles — reach me at:  
+📧 **[olagunjuayomide02@gmail.com](mailto:olagunjuayomide02@gmail.com)**
 
-You can also connect with me on:  
-[LinkedIn](https://www.linkedin.com/in/olagunju-ayomide-636843298/)  
-[GitHub](https://github.com/Ayomide2025-web)
+Connect with me:  
+[🔗 LinkedIn](https://www.linkedin.com/in/olagunju-ayomide-636843298/) | [🐙 GitHub](https://github.com/Ayomide2025-web)
