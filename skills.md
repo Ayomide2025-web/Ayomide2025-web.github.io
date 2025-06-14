@@ -7,26 +7,30 @@ author_profile: true
 
 ### 💻 Technical Skills
 
-- **Programming:** Python, R, SQL.
-- **Data Analysis:** Excel (Advanced), Power BI, Pandas, NumPy, Scikit-learn
-- **Machine Learning:** Logistic Regression, Classification Models
-- **Bioinformatics:** Linux tools, FASTA/FASTQ handling
-- **Design:** Adobe Photoshop, Illustrator, Figma
+- **Programming:** Python, R, SQL
+- **Data Analysis:** Advanced Excel, Power BI, Pandas, NumPy, Scikit-learn
+- **Machine Learning:** Logistic Regression, Classification Models, Model Evaluation
+- **Bioinformatics:** Linux tools, FASTA/FASTQ processing, Sequence Analysis
+- **Design:** Adobe Photoshop, Illustrator.
+
+---
 
 ### 🧠 Soft Skills
 
-- Communication  
-- Teamwork  
-- Critical thinking  
-- Time management
+- Effective Communication  
+- Team Collaboration  
+- Critical Thinking & Problem-Solving  
+- Time Management & Personal Effectiveness
+
+---
 
 ### 🛠️ Tools & Platforms
 
 - Git & GitHub
 - Jupyter Notebooks
-- VS Code
-- Datalab Analytics Environment
+- Visual Studio Code
+- Datalab Analytics Environment 
 
 ---
 
-I'm always learning and expanding my toolkit to stay sharp in both tech and creative fields!
+I'm constantly learning and expanding my skill set to stay ahead in both tech and creative fields.
