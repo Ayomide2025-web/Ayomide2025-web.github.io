@@ -41,8 +41,16 @@ author_profile: true
 - **Machine Learning:** Supervised & unsupervised algorithms (e.g., logistic regression, decision trees, random forests, SMOTE); Streamlit deployment  
 - **Deep Learning:** Neural Networks, CNNs; TensorFlow, PyTorch 
 - **Bioinformatics:** Linux tools, FASTA/FASTQ processing, sequence alignment, variant analysis  
-- **Design:** Adobe Photoshop, Canva, Illustrator  
-- **Tools & Platforms:** Git & GitHub, Jupyter Notebooks, Visual Studio Code, Datalab Analytics Environment
+- **Design:** Adobe Photoshop, Canva, Illustrator
+
+---
+
+## 🛠️ Tools & Platforms
+
+- Git & GitHub
+- Jupyter Notebooks,
+- Visual Studio Code
+- Datalab Analytics Environment
 
 ---
 
