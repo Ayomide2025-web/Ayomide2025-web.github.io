@@ -13,28 +13,36 @@ author_profile: true
 
 ### Power BI Developer – Datalab Analytics  
 *June 2025 – Present*  
-- Currently building and optimizing dashboards for real-time insights.  
-- Streamlining data pipelines and enhancing user experience with visual storytelling.
+- Designing, building, and optimizing interactive dashboards for actionable insights.  
+- Streamlining data pipelines and ensuring data integrity for real-time analytics.  
+- Enhancing user experience with clear visual storytelling and intuitive reports.  
+- Collaborating with stakeholders to define KPIs and performance metrics.
 
-### Health Data & Bioinformatics Intern – Datalab Analytics  
+### Health Data & Bioinformatics Analyst – Datalab Analytics  
 *Jan 2025 – April 2025*  
-- Worked on predictive analytics projects using Excel, Python, and machine learning.  
-- Developed and deployed a lung cancer risk prediction model using Streamlit.  
-- Collaborated in a cross-functional team to deliver data-driven healthcare insights.
+- Built predictive models using machine learning algorithms in Python and Excel.  
+- Developed and deployed a lung cancer risk prediction web app using Streamlit.  
+- Applied data preprocessing, feature engineering, and model evaluation techniques.  
+- Presented findings and recommendations to cross-functional teams for decision-making.
 
 ### STEM Tutor – Private Teaching  
 *2024 – Present*  
-- Teaching biology and health-related topics to secondary school students.  
-- Simplifying complex science topics with relatable examples and visuals.
+- Delivering engaging lessons in Biology and Health Sciences to secondary school students.  
+- Designing easy-to-understand notes, visuals, and practice materials.  
+- Assessing student progress and providing personalized academic support.  
+- Encouraging curiosity and critical thinking through interactive discussions.
 
 ---
 
 ## 📊 Skills
 
-- **Data Analysis**: Excel, SQL, Power BI, Python (Pandas, Matplotlib)
-- **Machine Learning**: Logistic Regression, Random Forest, SMOTE, Streamlit
-- **Bioinformatics**: Linux, Sequence Analysis
-- **Design**: Adobe Photoshop, Canva
+- **Programming & Data:** Python (Pandas, NumPy, Matplotlib), R, SQL, Advanced Excel  
+- **Data Visualization:** Power BI, interactive dashboards, report automation  
+- **Machine Learning:** Supervised & unsupervised algorithms (e.g., logistic regression, decision trees, random forests, SMOTE); Streamlit deployment  
+- **Deep Learning:** Neural Networks, CNNs; TensorFlow, PyTorch 
+- **Bioinformatics:** Linux tools, FASTA/FASTQ processing, sequence alignment, variant analysis  
+- **Design:** Adobe Photoshop, Canva, Illustrator  
+- **Tools & Platforms:** Git & GitHub, Jupyter Notebooks, Visual Studio Code, Datalab Analytics Environment
 
 ---
 
@@ -46,6 +54,11 @@ author_profile: true
 **Health Data Analysis & Bioinformatics Training**  
 *Datalab Analytics*
 
+**Graphic Design Training**  
+*HIIT*
+
+**AI for Beginners**  
+*Microsoft*
 ---
 
 ## 📥 Download
