@@ -5,7 +5,7 @@ permalink: /resume/
 author_profile: true
 ---
 
-[📄 **Download my CV (PDF)**](/assets/cv.pdf)
+[📄 **Download my CV (PDF)**](/assets/resume.pdf)
 
 ---
 
@@ -71,4 +71,4 @@ author_profile: true
 
 ## 📥 Download
 
-You can always [📄 **download my CV here (PDF)**](/assets/cv.pdf)
+You can always [📄 **download my CV here (PDF)**](/assets/resume.pdf)
