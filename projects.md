@@ -50,17 +50,29 @@ Built a Power BI dashboard to analyze health indicators that influence diabetes 
 
 <img src="/assets/patients.jpg" alt="Emergency Room Dashboard" style="width: 100%; margin-bottom: 10px;">
 
-**Tools:** Excel · Power Query · Charts  
+**Tools:** Power BI · DAX · Excel  
 **Description:**  
-Designed an Excel dashboard to monitor patient flow and resource allocation in a hospital emergency unit.  
+Built a Power BI dashboard to to monitor patient flow and resource allocation in a hospital emergency unit.    
 **Key Features:**  
-- Automated insights from raw visit logs  
 - Dynamic charts showing patient categories, visit times, and length of stay  
-- Usable by hospital staff with minimal Excel skills  
+- Drill-through filters and insights for early intervention  
+- Visual storytelling with custom DAX calculations  
 **[View Project](https://github.com/Ayomide2025-web/Hospital-Emergency-Room-ER-Analysis/)**
 
 ---
 
-> More projects coming soon — including predictive models, dashboards, and interactive tools for health data.
+## ⚡Sales and Inventory Analysis
+
+<img src="/assets/sales.jpg" alt="Emergency Room Dashboard" style="width: 100%; margin-bottom: 10px;">
+
+**Tools:** Excel · Power Query · Charts  
+**Description:**
+Designed an Excel dashboard to track sales performance and monitor inventory levels across multiple product categories.
+**Key Features:**  
+- Automated insights generated stay raw sales and stock from
+- Dynamic charts showing top-selling products, category performance, and inventory status
+- Easy to use, even for users with minimal Excel experience, with clear visuals and pivot-driven summaries
+**[View Projects]
+  (https://github.com/Ayomide2025-web/Hospital-Emergency-Room-ER-Analysithe projects coming soon — including predictive models, dashboards, and interactive tools for health data.
 
 In the meantime, check out my [GitHub](https://github.com/Ayomide2025-web) for recent activity.
