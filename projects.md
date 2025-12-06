@@ -73,7 +73,7 @@ Designed an Excel dashboard to track sales performance and monitor inventory lev
 - Dynamic charts showing top-selling products, category performance, and inventory status
 - Easy to use, even for users with minimal Excel experience, with clear visuals and pivot-driven summaries
 **[View Projects]
-  (https://github.com/Ayomide2025-web/Sales_Inventory_Analysis_In_Nigeria/)**
+(https://github.com/Ayomide2025-web/Sales_Inventory_Analysis_In_Nigeria/)**
 
 ---
 More Projects Coming soon —including predictive models, dashboards, and interactive tools for health data 
