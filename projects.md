@@ -70,7 +70,7 @@ Built a Power BI dashboard to to monitor patient flow and resource allocation in
 Designed an Excel dashboard to track sales performance and monitor inventory levels across multiple product categories.
 **Key Features:**  
 - Automated insights generated stay raw sales and stock from
-- Dynamic charts showing top-selling products, category performance, and inventorinventory-
+- Dynamic charts showing top-selling products, category performance, and inventory status
 - Easy to use, even for users with minimal Excel experience, with clear visuals and pivot-driven summaries
 
 **[View Projects](https://github.com/Ayomide2025-web/Sales-and-Inventory-Analysis-in-Nigeria/)**
